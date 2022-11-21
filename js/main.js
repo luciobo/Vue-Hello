@@ -8,8 +8,12 @@ createApp({
     // data: function () {}
     data() {
         // la funzione data deve SEMPRE ritornare un oggetto
-        return {};
-        nome: ""
-        cognome:""
+        return {
+            nome: "",
+            cognome: "",
+            immagine: "imgs/immagine-profilo.jpeg",
+            classi: "",
+        };
+        
     },
 }).mount("#app")
