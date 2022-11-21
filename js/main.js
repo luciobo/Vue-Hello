@@ -13,6 +13,7 @@ createApp({
             cognome: "",
             immagine: "imgs/immagine-profilo.jpeg",
             classi: "text-danger",
+            mioPlaceHolder : 'ciaoaicao'
         };
         
     },
