@@ -12,7 +12,7 @@ createApp({
             nome: "",
             cognome: "",
             immagine: "imgs/immagine-profilo.jpeg",
-            classi: "",
+            classi: "text-danger",
         };
         
     },
